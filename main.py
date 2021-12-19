@@ -15,5 +15,4 @@ def timer(t):
 
 t = input("Enter the time in seconds: ")
   
-# function call
 timer(int(t))
